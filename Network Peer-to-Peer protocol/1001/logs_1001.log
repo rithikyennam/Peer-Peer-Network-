@@ -1,0 +1,654 @@
+Wed Dec 07 16:41:29 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:41:29 EST 2022 : Server: 1001 Started on Port Number :6002
+Wed Dec 07 16:41:29 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:41:34 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:41:39 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:41:39 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:41:44 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:41:49 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:41:49 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:41:54 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:41:59 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:41:59 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:42:04 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:42:09 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:42:09 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:42:14 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:42:19 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:42:19 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:42:24 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:42:29 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:42:29 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:42:34 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:42:39 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:42:39 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:42:44 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:42:49 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:42:49 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:42:54 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:42:59 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:42:59 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:43:04 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:43:09 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:43:09 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:43:14 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:43:19 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:43:19 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:43:24 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:43:29 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:43:29 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:43:34 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:43:39 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:43:39 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:43:44 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:43:49 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:43:49 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:43:54 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:43:59 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:43:59 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:44:04 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:44:09 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:44:09 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:44:14 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:44:19 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:44:19 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:44:24 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:44:29 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:44:30 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:44:35 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:44:39 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:44:40 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:44:45 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:44:49 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:44:50 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:44:55 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:44:59 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:45:00 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:45:05 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:45:09 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:45:10 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:45:15 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:45:19 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:45:20 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:45:25 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:45:29 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:45:30 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:45:35 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:45:39 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:45:40 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:45:45 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:45:49 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:45:50 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:45:55 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:45:59 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:46:00 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:46:05 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:46:09 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:46:10 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:46:15 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:46:19 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:46:20 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:46:25 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:46:29 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:46:30 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:46:35 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:46:39 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:46:40 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:46:45 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:46:49 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:46:50 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:46:55 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:46:59 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:47:00 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:47:05 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:47:09 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:47:10 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:47:15 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:47:19 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:47:20 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:47:25 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:47:29 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:47:30 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:47:35 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:47:39 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:47:40 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:47:45 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:47:49 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:47:50 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:47:55 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:47:59 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:48:00 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:48:05 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:48:10 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:48:10 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:48:15 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:48:20 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:48:20 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:48:25 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:48:30 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:48:30 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:48:35 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:48:40 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:48:40 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:48:45 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:48:50 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:48:50 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:48:55 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:49:00 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:49:00 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:49:05 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:49:10 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:49:10 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:49:15 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:49:20 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:49:20 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:49:25 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:49:30 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:49:30 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:49:35 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:49:40 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:49:40 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:49:45 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:49:50 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:49:50 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:49:55 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:50:00 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:50:00 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:50:05 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:50:10 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:50:10 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:50:15 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:50:20 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:50:20 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:50:25 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:50:30 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:50:30 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:50:35 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:50:40 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:50:40 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:50:45 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:50:50 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:50:50 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:50:55 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:51:00 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:51:00 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:51:05 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:51:10 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:51:10 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:51:15 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:51:20 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:51:20 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:51:25 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:51:30 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:51:30 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:51:35 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:51:40 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:51:40 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:51:45 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:51:50 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:51:50 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:51:55 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:52:00 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:52:00 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:52:05 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:52:10 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:52:10 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:52:15 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:52:20 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:52:20 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:52:25 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:52:30 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:52:30 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:52:35 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:52:40 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:52:40 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:52:45 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:52:50 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:52:50 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:52:55 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:53:00 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:53:00 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:53:05 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:53:10 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:53:10 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:53:15 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:53:20 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:53:20 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:53:25 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:53:30 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:53:30 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:53:35 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:53:40 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:53:40 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:53:45 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:53:50 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:53:50 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:53:55 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:54:00 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:54:00 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:54:05 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:54:10 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:54:10 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:54:15 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:54:20 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:54:20 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:54:25 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:54:30 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:54:30 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:54:35 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:54:40 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:54:40 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:54:45 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:54:50 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:54:50 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:54:55 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:55:00 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:55:00 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:55:05 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:55:10 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:55:10 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:55:15 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:55:20 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:55:20 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:55:25 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:55:30 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:55:30 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:55:35 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:55:40 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:55:41 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:55:46 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:55:50 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:55:51 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:55:56 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:56:00 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:56:01 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:56:06 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:56:10 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:56:11 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:56:16 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:56:20 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:56:21 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:56:26 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:56:30 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:56:31 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:56:36 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:56:40 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:56:41 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:56:46 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:56:50 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:56:51 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:56:56 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:57:00 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:57:01 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:57:06 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:57:10 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:57:11 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:57:16 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:57:20 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:57:21 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:57:26 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:57:30 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:57:31 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:57:36 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:57:40 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:57:41 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:57:46 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:57:50 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:57:51 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:57:56 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:58:00 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:58:01 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:58:06 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:58:10 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:58:11 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:58:16 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:58:20 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:58:21 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:58:26 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:58:30 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:58:31 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:58:36 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:58:40 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:58:41 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:58:46 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:58:50 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:58:51 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:58:56 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:59:00 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:59:01 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:59:06 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:59:10 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:59:11 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:59:16 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:59:20 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:59:21 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:59:26 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:59:30 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:59:31 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:59:36 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:59:40 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:59:41 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:59:46 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:59:50 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 16:59:51 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 16:59:56 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:00:00 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:00:01 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:00:06 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:00:10 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:00:11 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:00:16 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:00:20 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:00:21 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:00:26 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:00:30 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:00:31 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:00:36 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:00:40 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:00:41 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:00:46 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:00:50 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:00:51 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:00:56 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:01:00 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:01:01 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:01:06 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:01:10 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:01:11 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:01:16 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:01:20 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:01:21 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:01:26 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:01:30 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:01:31 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:01:36 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:01:40 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:01:41 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:01:46 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:01:50 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:01:51 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:01:56 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:02:00 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:02:01 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:02:06 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:02:10 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:02:11 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:02:16 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:02:20 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:02:21 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:02:26 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:02:30 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:02:31 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:02:36 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:02:40 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:02:41 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:02:46 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:02:50 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:02:51 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:02:56 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:03:00 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:03:01 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:03:06 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:03:10 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:03:11 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:03:16 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:03:20 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:03:21 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:03:26 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:03:30 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:03:31 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:03:36 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:03:40 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:03:41 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:03:46 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:03:50 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:03:51 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:03:56 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:04:00 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:04:01 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:04:06 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:04:10 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:04:11 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:04:16 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:04:20 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:04:21 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:04:26 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:04:30 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:04:31 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:04:36 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:04:40 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:04:41 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:04:46 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:04:50 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:04:51 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:04:56 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:05:00 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:05:01 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:05:06 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:05:10 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:05:11 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:05:16 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:05:20 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:05:21 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:05:26 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:05:30 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:05:31 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:05:36 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:05:40 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:05:41 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:05:46 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:05:50 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:05:51 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:05:56 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:06:00 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:06:01 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:06:06 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:06:10 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:06:11 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:06:16 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:06:20 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:06:21 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:06:26 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:06:30 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:06:31 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:06:36 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:06:40 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:06:41 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:06:46 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:06:50 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:06:51 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:06:56 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:07:00 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:07:01 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:07:06 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:07:10 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:07:11 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:07:16 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:07:20 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:07:21 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:07:26 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:07:30 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:07:31 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:07:36 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:07:40 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:07:42 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:07:47 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:07:50 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:07:52 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:07:57 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:08:00 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:08:02 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:08:07 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:08:10 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:08:12 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:08:17 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:08:20 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:08:22 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:08:27 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:08:30 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:08:32 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:08:37 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:08:40 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:08:42 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:08:47 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:08:50 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:08:52 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:08:57 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:09:00 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:09:02 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:09:07 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:09:10 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:09:12 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:09:17 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:09:20 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:09:22 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:09:27 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:09:30 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:09:32 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:09:37 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:09:40 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:09:42 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:09:47 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:09:50 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:09:52 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:09:57 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:10:00 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:10:02 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:10:07 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:10:10 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:10:12 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:10:17 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:10:20 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:10:22 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:10:27 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:10:30 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:10:32 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:10:37 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:10:40 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:10:42 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:10:47 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:10:50 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:10:52 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:10:57 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:11:00 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:11:02 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:11:07 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:11:11 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:11:12 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:11:17 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:11:21 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:11:22 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:11:27 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:11:31 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:11:32 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:11:37 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:11:41 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:11:42 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:11:47 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:11:51 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:11:52 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:11:57 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:12:01 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:12:02 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:12:07 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:12:11 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:12:12 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:12:17 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:12:21 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:12:22 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:12:27 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:12:31 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:12:32 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:12:37 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:12:41 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:12:42 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:12:47 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:12:51 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:12:52 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:12:57 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:13:01 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:13:02 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:13:07 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:13:11 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:13:12 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:13:17 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:13:21 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:13:22 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:13:27 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:13:31 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:13:32 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:13:37 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:13:41 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:13:42 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:13:47 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:13:51 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:13:52 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:13:57 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:14:01 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:14:02 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:14:07 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:14:11 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:14:12 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:14:17 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:14:21 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:14:22 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:14:27 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:14:31 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:14:32 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:14:37 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:14:41 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:14:42 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:14:47 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:14:51 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:14:52 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:14:57 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:15:01 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:15:02 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:15:07 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:15:11 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:15:12 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:15:17 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:15:21 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:15:22 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:15:27 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:15:31 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:15:32 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:15:37 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:15:41 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:15:42 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:15:47 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:15:51 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:15:52 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:15:57 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:16:01 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:16:02 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:16:07 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:16:11 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:16:12 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:16:17 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:16:21 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:16:23 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:16:28 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:16:31 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:16:33 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:16:38 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:16:41 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:16:43 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:16:48 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:16:51 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:16:53 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:16:58 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:17:01 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:17:03 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:17:08 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:17:11 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:17:13 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:17:18 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:17:21 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:17:23 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:17:28 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:17:31 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:17:33 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:17:38 EST 2022 : Peer 1001 has the preferred neighbors []
+Wed Dec 07 17:17:41 EST 2022 : Peer 1001 has the optimistically unchoked neighbor 0
+Wed Dec 07 17:17:43 EST 2022 : Peer 1001 has the preferred neighbors []
